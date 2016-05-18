@@ -1,0 +1,45 @@
+body
+{
+    width: 100% ;
+    height: auto;
+    margin: 150px auto;
+    background-color: #ffd8b0;
+    text-align: center;
+    
+    
+}
+#contenedor
+{
+    width: 750px;
+    height: 210px;
+    margin: 40px auto;
+    padding-top: 5px;
+    position: relative;
+}
+#Contenedor
+{
+   width: 850px;
+    height: 300px;
+    margin: 150px auto;
+    padding-top: 5px;
+    position: relative;
+}
+#entrada
+{
+    
+    text-align: center;
+}
+#cantidad
+{
+    //width: 1018px;
+    text-align: center;
+}
+#botones
+{
+    
+    text-align: center;
+}
+
+.caja{
+    background-color: #ffffff;
+}

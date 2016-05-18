@@ -1,0 +1,88 @@
+body{
+             background-color: #ffd8b0;
+             margin: 50px;
+}
+#principal {width: 330px;
+             height: 400px;
+             /*background-color: #ffb164;*/
+         
+             padding-top: 5px;
+             /*position: relative;*/
+             float: left;
+              }
+#tabla
+           {
+            /*background-color: #ffb164;*/
+             /*width: 669px;*/
+             height: 400px;
+            float: right;
+           }
+           
+#principal, #principaltabla input{
+             float: right;
+}
+
+#principal, #principaltabla label{
+             float:left;
+}
+           
+table th {   
+             background-color: #ce6700;}
+table .non td {background: #ffa74f;}
+table .par {background: #ffc58a;}
+table .normal tr:hover {background: #8080c0;}
+
+#principaltabla
+           {
+            width: 330px;
+             height: 400px;
+             /*background-color: #ffb164;*/
+         
+             padding-top: 5px;
+             position: relative;
+             float: left;
+           }
+#parte1
+           {
+            width: 330px;
+             height: 150px;
+             /*background-color: #ffb164;*/
+         
+             padding-top: 5px;
+             position: relative;
+             float: left;
+            
+             text-align: center;
+           }
+           #parte2
+           {
+             /*background-color: #fffb164   ;*/
+             width: 669px;
+             height: 200x;
+            float: inherit;
+             text-align: right  ;
+           }
+           
+           
+           
+           #parte3
+           {
+             /*background-color: #ffb164   ;*/
+             width: 669px;
+             height: 100px;
+            float: inherit;
+             text-align: right  ;
+             float: inherit;        
+             text-align: right;
+           }
+
+.button{
+    background:#e5e5e5;
+    display:inline-block;
+    margin:0 6px;
+    padding:7px 20px 7px;
+    color:#333;
+    text-decoration:none;
+    text-shadow: 0 1px 1px #FFF;
+    border:1px solid #ccc;
+}

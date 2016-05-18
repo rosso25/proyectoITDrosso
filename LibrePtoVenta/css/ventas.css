@@ -1,0 +1,38 @@
+div {
+    height: auto;
+    float:left;
+   }
+   
+div#totales {
+    text-align: right;
+    float: right;
+}
+
+table{
+    background-color: #fff;
+}
+
+body{
+    background-color: #ffd8b0;
+    padding-left: 130px;
+    /*margin: 250px;*/
+    
+}
+#aladerecha {
+            position: relative;
+            top: 0px;
+            left: 50px;
+            margin: auto ;
+            text-align: right;
+            }
+a.button{
+    float: inherit;
+    background:#e5e5e5;
+    display:inline-block;
+    margin:0 6px;
+    padding:7px 20px 7px;
+    color:#333;
+    text-decoration:none;
+    text-shadow: 0 1px 1px #FFF;
+    border:1px solid #ccc;
+}

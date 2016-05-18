@@ -1,0 +1,22 @@
+body {
+            background-color: #ffd8b0;
+            margin: 70px 520px;
+           
+            
+        }
+        
+        label.cajatexto{
+            float: left;
+            
+        }
+        
+        input.cajatexto, input.boton{
+            float: right;
+            
+        }
+        
+         table {
+            margin: 20px 150px;
+        }
+        
+       
